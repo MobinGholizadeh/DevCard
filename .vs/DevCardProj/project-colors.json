@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15aed154-cba4-4ac9-ac99-89b4207a78ff": {
+      "ProjectGuid": "15aed154-cba4-4ac9-ac99-89b4207a78ff",
+      "DisplayName": "DevCard_MVC",
+      "ColorIndex": 0
+    },
+    "fcd54778-b699-4428-a331-3851deddbf1c": {
+      "ProjectGuid": "fcd54778-b699-4428-a331-3851deddbf1c",
+      "DisplayName": "DevCard_Project",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
