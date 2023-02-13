@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7a4a570-66d6-4570-85cb-5e3ed7bfd2e8": {
+      "ProjectGuid": "b7a4a570-66d6-4570-85cb-5e3ed7bfd2e8",
+      "DisplayName": "MobinShop",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

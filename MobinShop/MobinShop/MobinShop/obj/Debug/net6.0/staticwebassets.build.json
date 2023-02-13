@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F+lOQYvajjWjdiSBYt5RexQfFWoLucOGxrHUgoKK23g=",
+  "Hash": "3rtKwJqJtLcuEAYrcMvDBXQled5TDtLgSod6deMma9g=",
   "Source": "MobinShop",
   "BasePath": "_content/MobinShop",
   "Mode": "Default",
@@ -1936,6 +1936,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\MobinShop\\MobinShop\\MobinShop\\wwwroot\\img\\Mobin-Only-Logo.png",
+      "SourceId": "MobinShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\MobinShop\\MobinShop\\MobinShop\\wwwroot\\",
+      "BasePath": "_content/MobinShop",
+      "RelativePath": "img/Mobin-Only-Logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Mobin-Only-Logo.png"
     },
     {
       "Identity": "E:\\GitHub\\MobinShop\\MobinShop\\MobinShop\\wwwroot\\img\\offer_img_1.png",
